@@ -1,0 +1,9 @@
+torch
+pytorch-tabnet
+scikit-learn
+pandas
+numpy
+seaborn
+matplotlib
+imbalanced-learn
+joblib
